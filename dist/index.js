@@ -9,7 +9,4 @@ DEMO.prototype.start = function(text) {
 };
 
 
-module.exports = {
-  DEMO,
-  _
-};
+module.exports = DEMO;
