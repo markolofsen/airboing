@@ -6,7 +6,7 @@
 # Title for English language
 Sample variable for repo: [[any_repo_var]]
 
-Version = 0.0.9
+Version = 0.1.0
 library name = airboing
 Title = airboing
 Keywords = good
