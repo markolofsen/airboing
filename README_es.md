@@ -6,7 +6,7 @@
 # Título para el idioma inglés
 Variable de muestra para repo: [[any_repo_var]]
 
-Versión = 0.0.6
+Versión = 0.0.9
 nombre de la biblioteca = airboing
 Título = airboing
 Palabras clave = good
