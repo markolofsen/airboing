@@ -5,7 +5,7 @@
 
 Variable de muestra para repo: [[any_repo_var]]
 
-Versión = 0.1.1
+Versión = 0.1.2
 nombre de la biblioteca = airboing
 Título = airboing
 Palabras clave = good
@@ -13,7 +13,7 @@ Palabras clave = good
 ### Caliente para instalar
 
 `` `shell
-pip3 instalar airboing == 0.1.1
+pip3 instalar airboing == 0.1.2
 `` `
                             
 

@@ -5,7 +5,7 @@
 
 Sample variable for repo: [[any_repo_var]]
 
-Version = 0.1.1
+Version = 0.1.2
 library name = airboing
 Title = airboing
 Keywords = good
@@ -13,7 +13,7 @@ Keywords = good
 ### Hot to install
 
 ```shell
-pip3 install airboing==0.1.1
+pip3 install airboing==0.1.2
 ```
                             
 
