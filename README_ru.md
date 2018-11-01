@@ -3,16 +3,28 @@
 
 ---
 
-# Заголовок для английского языка
 Пример переменной для репо: [[any_repo_var]]
 
-Версия = 0.1.0
+Версия = 0.1.1
 имя библиотеки = airboing
 Заголовок = airboing
 Ключевые слова = good
 
+### Горячая установка
+
+`` `Оболочки
+pip3 install airboing == 0.1.1
+`` `
+                            
+
+### Как пользоваться
+
 `` `Javascript
-function test () {}
+const {airboing} = require ('airboing');
+console.dir (airboing)
+
+s = new airboing ('Пример ключа'). start ('Hello');
+console.log (ы)
 `` `
 
 ---

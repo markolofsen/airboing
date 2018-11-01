@@ -3,18 +3,32 @@
 
 ---
 
-# Title for English language
 Sample variable for repo: [[any_repo_var]]
 
-Version = 0.1.0
+Version = 0.1.1
 library name = airboing
 Title = airboing
 Keywords = good
 
-```javascript
-function test() {}
+### Hot to install
+
+```shell
+pip3 install airboing==0.1.1
 ```
-        
+                            
+
+### How to use
+
+```javascript
+const {airboing} = require('airboing');
+console.dir(airboing)
+
+s = new airboing('Example key').start('Hello');
+console.log(s)
+```
+                        
+
+    
 
 ---
 

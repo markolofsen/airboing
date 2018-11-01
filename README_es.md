@@ -3,16 +3,28 @@
 
 ---
 
-# Título para el idioma inglés
 Variable de muestra para repo: [[any_repo_var]]
 
-Versión = 0.1.0
+Versión = 0.1.1
 nombre de la biblioteca = airboing
 Título = airboing
 Palabras clave = good
 
+### Caliente para instalar
+
+`` `shell
+pip3 instalar airboing == 0.1.1
+`` `
+                            
+
+### Cómo utilizar
+
 `` `javascript
-prueba de funcionamiento() {}
+const {airboing} = require ('airboing');
+console.dir (airboing)
+
+s = nuevo airboing ('Ejemplo de clave'). inicio ('Hola');
+console.log (s)
 `` `
 
 ---
